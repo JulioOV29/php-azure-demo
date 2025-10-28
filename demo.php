@@ -13,7 +13,7 @@ $visitas++;
 file_put_contents($counterFile, $visitas);
 
 // Datos dinámicos
-$nombre = "Esteban 😎";
+$nombre = "Mundo 😎";
 $hora = date("h:i A");
 $fecha = date("d/m/Y");
 ?>
